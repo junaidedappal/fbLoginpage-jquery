@@ -1,1 +1,1 @@
-# // this is a beautiful login page of facebook usig jquery for validation
+#//this is a beautiful login page of facebook using jquery for validation
